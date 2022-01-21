@@ -158,4 +158,4 @@ if __name__ == '__main__':
 # size 30x10, there is a roughly 0.0000009259% chance 
 # that an unplayable map will be created.
 # Therefore, a failsafe will not be implemented at this time.
-# I will, however, add one when an unplayable map is generated. ;)
+# I will, however, add one when an unplayable map is generated.
